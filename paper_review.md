@@ -37,10 +37,17 @@ This study has people to get a perspective on the people who are homeless and ev
 ## NARRATIVE: “The narrative begins with the participants sitting in their apartment after losing their job and realizing rent is due. Despite selling most of their belongings, participants are not able to raise enough money to pay rent and are evicted from their apartment. Forced to live out of their car, they prepare themselves for the night by trying to find their toothbrush and other items needed to brush their teeth. Participants suddenly hear a police siren and are approached by a police officer who discovers the participants are living out of their car. Due to a city ordinance prohibiting the use of cars as homes in public spaces, the car is impounded. Participants are now traveling on a bus at night for shelter and warmth, when they are warned that there are two men onboard who may serve as a threat to them. One man may try to get unpleasantly close to the participant while the other may try to steal the participant’s backpack. In the bus, participants also interact with other non-threatening homeless people and learn about their experiences.”
 
  
+ ![alt text](https://github.com/kgyanwal/krishana_VR_student_choice/blob/gh-pages/Screen%20Shot%202020-09-07%20at%203.53.58%20PM.png)
+
+ 
 1.	Participant’s point of view in the apartment scene. 
  
+ ![alt text](https://github.com/kgyanwal/krishana_VR_student_choice/blob/gh-pages/Screen%20Shot%202020-09-07%20at%203.53.58%20PM.png)
+
 2.	Participant’s point of view in the car scene. 
  
+  ![alt text](https://github.com/kgyanwal/krishana_VR_student_choice/blob/gh-pages/Screen%20Shot%202020-09-07%20at%203.53.58%20PM.png)
+
 3.	Participant’s point of view in the bus scene. 
 
 ## Analysis:
