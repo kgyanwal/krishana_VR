@@ -42,11 +42,11 @@ This study has people to get a perspective on the people who are homeless and ev
  
 1.	Participant’s point of view in the apartment scene. 
  
- ![alt text](https://github.com/kgyanwal/krishana_VR_student_choice/blob/gh-pages/Screen%20Shot%202020-09-07%20at%203.53.58%20PM.png)
+ ![alt text](https://github.com/kgyanwal/krishana_VR_student_choice/blob/gh-pages/Screen%20Shot%202020-09-07%20at%203.54.07%20PM.png)
 
 2.	Participant’s point of view in the car scene. 
  
-  ![alt text](https://github.com/kgyanwal/krishana_VR_student_choice/blob/gh-pages/Screen%20Shot%202020-09-07%20at%203.53.58%20PM.png)
+  ![alt text](https://github.com/kgyanwal/krishana_VR_student_choice/blob/gh-pages/Screen%20Shot%202020-09-07%20at%203.54.17%20PM.png)
 
 3.	Participant’s point of view in the bus scene. 
 
