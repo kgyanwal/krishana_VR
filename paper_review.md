@@ -42,6 +42,7 @@ This study has people to get a perspective on the people who are homeless and ev
 2.	Participant’s point of view in the car scene. 
  
 3.	Participant’s point of view in the bus scene. 
+
 ## Analysis:
 •	Inclusion of the Other in the self
 •	Empathy
@@ -68,7 +69,7 @@ Though the research shows promising results, it is yet to cover more geographic 
 3.	Definition of empathy: https://www.merriam-webster.com/dictionary/empathy
 4.	https://www.youtube.com/watch?v=L9UZchvKzys
 5.	https://www.youtube.com/watch?v=N5Ya9F28ks4
-6.	
+
 
 ## Notes: -
 
